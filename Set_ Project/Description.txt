@@ -1,0 +1,10 @@
+"Set" Project - 10th Grade, 2015-2016
+AP Computer Science Final Project
+
+This was my final project for AP Computer Science in my sophomore year of high school.
+Our only prompt for the project was to create something using Java.
+Most people in the class wanted to create games (myself included),
+so after a week of thought, I decided to recreate the card game "Set."
+
+In this folder, I've included the source code for my two drafts (developed in the BlueJ
+environment) and the executable jar file.

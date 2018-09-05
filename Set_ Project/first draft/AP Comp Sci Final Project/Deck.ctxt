@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=Deck(int)
+comment1.params=
+comment1.target=void\ makeSetDeck()
+comment10.params=otherDeck
+comment10.target=void\ moveAllCards(Deck)
+comment2.params=card
+comment2.target=void\ add(Card)
+comment3.params=num
+comment3.target=void\ remove(int)
+comment4.params=hand\ n
+comment4.target=void\ give(Deck,\ int)
+comment5.params=otherDeck\ numCards
+comment5.target=void\ giveRandomCards(Deck,\ int)
+comment6.params=hand
+comment6.target=void\ giveRandomCards(Deck)
+comment7.params=n
+comment7.target=Card\ get(int)
+comment8.params=card
+comment8.target=int\ indexOf(Card)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Player(java.lang.String)
+comment1.params=other\ won\ myPoints\ otherPoints
+comment1.target=void\ playedGame(Player,\ boolean,\ int,\ int)
+comment2.params=n
+comment2.target=void\ addPoints(int)
+comment3.params=
+comment3.target=void\ addWin()
+comment4.params=
+comment4.target=void\ addLoss()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=fileName
+comment7.target=void\ savePlayer(java.lang.String)
+comment8.params=fileName
+comment8.target=void\ loadPlayer(java.lang.String)
+numComments=9

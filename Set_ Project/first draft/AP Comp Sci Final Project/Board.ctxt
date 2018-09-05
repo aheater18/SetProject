@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Board()
+comment1.params=
+comment1.target=void\ reshuffle()
+comment2.params=numCards
+comment2.target=void\ draw(int)
+comment3.params=theCard
+comment3.target=void\ discard(Card)
+comment4.params=
+comment4.target=java.lang.String\ readBoard()
+comment5.params=n
+comment5.target=Card\ get(int)
+numComments=6
